@@ -1,59 +1,74 @@
 {
-	"bankData": {
-		"clientData": [
-			{
-				"name": "Collins Mmasaba",
-				"phone": "0740708090",
-				"email": "collinsmmasaba@yahoo.com",
-				"pin": "1209",
-				"accountNumber": "189345",
-				"balance": {"Kshs":"100000000", "Usd":"877193"},
-				"loyaltyPoints": 100
-			},
-			{
-				"name": "Mark Kibara",
-				"phone": "0720879541",
-				"email": "markkibara@yahoo.com",
-				"pin": "9035",
-				"accountNumber": "189006",
-				"balance": {"Kshs":"10000000", "Usd":"87720"},
-				"loyaltyPoints": 100
-			},
-			{
-				"name": "MaryAnne Muthoni",
-				"phone": "0770482910",
-				"email": "maryannemuthoni@yahoo.com",
-				"pin": "6970",
-				"accountNumber": "189586",
-				"balance": {"Kshs":"5000000", "Usd":"43859"},
-				"loyaltyPoints": 100
-			},
-			{
-				"name": "Aineah Bwire",
-				"phone": "0760193870",
-				"email": "aineahbwire@yahoo.com",
-				"pin": "3982",
-				"accountNumber": "189428",
-				"balance": {"Kshs":"7000000", "Usd":"61404"},
-				"loyaltyPoints": 100
-			},
-			{
-				"name": "Frandel Wanjawa",
-				"phone": "0767482091",
-				"email": "frandelwanjawa@yahoo.com",
-				"pin": "4583",
-				"accountNumber": "189956",
-				"balance": {"Kshs":"3000000", "Usd":"26316"},
-				"loyaltyPoints": 100
-			}
-	],
-	"operationsRates": [
-		{
-			"withrawMoneyRate": 0.07,
-			"depositMoneyRate": 0,
-			"checkBalanceRate": 0,
-			"transferMoneyRate": 0.05
-		}
-	]
-	}
+   "bankData": {
+      "clientData": [
+         {
+            "name": "Collins Mmasaba",
+            "phone": "0740708090",
+            "email": "collinsmmasaba@yahoo.com",
+            "pin": 1209,
+            "accountNumber": 189345,
+            "balance": {
+               "Kshs": 100297617.16,
+               "Usd": 879803.6592982456
+            },
+            "loyaltyPoints": 100
+         },
+         {
+            "name": "Mark Kibara",
+            "phone": "0720879541",
+            "email": "markkibara@yahoo.com",
+            "pin": 9035,
+            "accountNumber": 189006,
+            "balance": {
+               "Kshs": 10045000,
+               "Usd": 33000
+            },
+            "loyaltyPoints": 100
+         },
+         {
+            "name": "MaryAnne Muthoni",
+            "phone": "0770482910",
+            "email": "maryannemuthoni@yahoo.com",
+            "pin": 6970,
+            "accountNumber": 189586,
+            "balance": {
+               "Kshs": 5000000,
+               "Usd": 43859
+            },
+            "loyaltyPoints": 100
+         },
+         {
+            "name": "Aineah Bwire",
+            "phone": "0760193870",
+            "email": "aineahbwire@yahoo.com",
+            "pin": 3982,
+            "accountNumber": 189428,
+            "balance": {
+               "Kshs": 7020000,
+               "Usd": 61578.94736842105
+            },
+            "loyaltyPoints": 100
+         },
+         {
+            "name": "Frandel Wanjawa",
+            "phone": "0767482091",
+            "email": "frandelwanjawa@yahoo.com",
+            "pin": 4583,
+            "accountNumber": 189956,
+            "balance": {
+               "Kshs": 3000000,
+               "Usd": 26316
+            },
+            "loyaltyPoints": 100
+         }
+      ],
+      "operationsRates": [
+         {
+            "withrawMoneyRate": 0.07,
+            "depositMoneyRate": 0,
+            "checkBalanceRate": 0,
+            "transferMoneyRate": 0.03
+         }
+      ]
+   }
 }
